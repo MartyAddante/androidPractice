@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">List Application</string>
+
+    <string-array name="items">
+        <item>peach</item>
+        <item>apple</item>
+        <item>kiwi</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.49</item>
+        <item>$0.89</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Fresh peaches from Georgia</item>
+        <item>Fresh apples from Washington</item>
+        <item>Fresh kiwis from wherever kiwis come from</item>
+    </string-array>
+</resources>

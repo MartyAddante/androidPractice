@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Interview Questions</string>
+
+    <string name="category_behavioral">Behavioral Questions</string>
+
+    <string name="category_technical">Technical Questions</string>
+</resources>
